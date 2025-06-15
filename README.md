@@ -28,7 +28,7 @@ A modern auto clicker built with **C# WinForms** and **Guna.UI2.WinForms**, feat
 4. Build and run
 
 ### 🔽 Download
-Visit the [Releases](https://github.com/your-username/AutoClicker-CSharp/releases) tab for the latest `.exe` version.
+Visit the [Releases](https://github.com/muhammednamli/AutoClicker-CSharp/releases) tab for the latest `.exe` version.
 
 ---
 
@@ -57,7 +57,7 @@ Visit the [Releases](https://github.com/your-username/AutoClicker-CSharp/release
 4. Build et ve çalıştır
 
 ### 🔽 İndir
-Son çıkan `.exe` sürümü için [Releases](https://github.com/your-username/AutoClicker-CSharp/releases) sekmesini ziyaret et.
+Son çıkan `.exe` sürümü için [Releases](https://github.com/muhammednamli/AutoClicker-CSharp/releases) sekmesini ziyaret et.
 
 ---
 
